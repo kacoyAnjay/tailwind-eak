@@ -4,8 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tailwind Eak</title>
-    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
-</head>
+    @vite('resources/css/app.css')</head>
 <body>
     <div class="h-full bg-B7B7B7 flex">
         <nav class="w-3xs h-screen p-3 border">
