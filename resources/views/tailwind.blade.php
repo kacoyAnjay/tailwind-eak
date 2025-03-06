@@ -114,7 +114,7 @@
             </div>
             <div class="gap-3 grid grid-cols-4 mx-3">
                 <div class="h-32 w-auto m-3 flex-wrap border">
-                    <div class="w-full flex">
+                    <div class="w-full flex place-items-center">
                         <span class="m-3 w-full h-full">
                         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M16 0H24V24H0V16H5.33333V10.6667H10.6667V5.33333H16V0ZM18.6667 2.66667V8H13.3333V13.3333H8V18.6667H2.66667V21.3333H21.3333V2.66667H18.6667Z" fill="black"></path>
@@ -125,8 +125,8 @@
                     <h1 class="m-3">Total revenue</h1>
                     <h1 class="m-3 font-bold">IDR310.230.010</h1>
                 </div>
-                <div class="w-auto border p-1 m-3 h-32">
-                    <div class="flex w-auto">
+                <div class="border p-1 m-3 h-32">
+                    <div class="flex w-auto place-items-center">
                         <span class="w-full m-3 h-full">
                         <svg class="m-1" width="24" height="24" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5 3.13031C20.6935 3.13031 21.8381 3.60887 22.682 4.4607C23.5259 5.31254 24 6.46788 24 7.67255H28.5C29.2956 7.67255 30.0587 7.99159 30.6213 8.55948C31.1839 9.12737 31.5 9.8976 31.5 10.7007V25.8415C31.5 26.6446 31.1839 27.4149 30.6213 27.9828C30.0587 28.5506 29.2956 28.8697 28.5 28.8697H4.5C3.70435 28.8697 2.94129 28.5506 2.37868 27.9828C1.81607 27.4149 1.5 26.6446 1.5 25.8415V10.7007C1.5 9.8976 1.81607 9.12737 2.37868 8.55948C2.94129 7.99159 3.70435 7.67255 4.5 7.67255H9C9 6.46788 9.47411 5.31254 10.318 4.4607C11.1619 3.60887 12.3065 3.13031 13.5 3.13031H19.5ZM21 10.7007H12V25.8415H21V10.7007ZM28.5 10.7007H24V25.8415H28.5V10.7007ZM9 10.7007H4.5V25.8415H9V10.7007ZM19.5 6.15847H13.5C13.1326 6.15852 12.778 6.29467 12.5034 6.5411C12.2289 6.78753 12.0535 7.1271 12.0105 7.49541L12 7.67255H21C21 7.3017 20.8651 6.94377 20.6209 6.66664C20.3768 6.38951 20.0404 6.21246 19.6755 6.16907L19.5 6.15847Z" fill="black"></path>
@@ -135,13 +135,13 @@
                         <h3 class="bg-red-300 m-1 p-1 h-fit">-8%</h3>
                     </div>
                     <h1 class="mx-3">Projects</h1>
-                    <div class="flex m-3">
+                    <div class="flex m-3 place-items-center">
                         <h1 class="font-bold">87</h1>
                         <h1 class="bold">/100</h1>
                     </div>
                 </div>
-                <div class="h-32 w-auto border p-1 m-3">
-                    <div class="flex">
+                <div class="h-32 border p-1 m-3">
+                    <div class="flex place-items-center">
                         <span class="w-full m-3 h-full">
                         <svg class="m-1" width="26" height="26" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M25 37.7727C26.6117 37.7727 28.2076 37.4553 29.6966 36.8385C31.1856 36.2218 32.5385 35.3178 33.6781 34.1781C34.8178 33.0385 35.7218 31.6856 36.3385 30.1966C36.9553 28.7076 37.2727 27.1117 37.2727 25.5C37.2727 23.8883 36.9553 22.2924 36.3385 20.8034C35.7218 19.3144 34.8178 17.9615 33.6781 16.8219C32.5385 15.6822 31.1856 14.7782 29.6966 14.1615C28.2076 13.5447 26.6117 13.2273 25 13.2273C21.7451 13.2273 18.6235 14.5203 16.3219 16.8219C14.0203 19.1235 12.7273 22.2451 12.7273 25.5C12.7273 28.7549 14.0203 31.8765 16.3219 34.1781C18.6235 36.4797 21.7451 37.7727 25 37.7727ZM40 25.5C40 33.7841 33.2841 40.5 25 40.5C16.7159 40.5 10 33.7841 10 25.5C10 17.2159 16.7159 10.5 25 10.5C33.2841 10.5 40 17.2159 40 25.5ZM29.0909 31.5191L23.6364 26.0645V16.6364H26.3636V24.9355L31.0191 29.5909L29.0909 31.5191Z" fill="black"></path>
@@ -155,7 +155,7 @@
                         <h1 class="bold">/1200h</h1>
                     </div>
                 </div>
-                <div class="h-32 w-auto border p-1 m-3">
+                <div class="h-32 border p-1 m-3">
                     <div class="flex">
                         <span class="w-full m-3 h-full">
                         <svg class="m-1" width="26" height="26" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -172,7 +172,7 @@
                 <div class="w-auto border m-1 p-1">
                     <div class="flex m-3">
                         <h1 class="font-semibold w-full">Project summary</h1>
-                        <div class="flex bg-slate-300 mx-3">
+                        <div class="flex bg-slate-300 mx-3 place-items-center">
                             Project
                             <span>
                             <svg width="15" height="15" viewBox="0 0 37 35" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -180,7 +180,7 @@
 </svg>
                             </span>
                         </div>
-                        <div class="flex bg-slate-300 mx-3">
+                        <div class="flex bg-slate-300 mx-3 place-items-center">
                             Status
                             <span>
                             <svg width="15" height="15" viewBox="0 0 37 35" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -212,19 +212,19 @@
                             <h1 class="my-1">20-2-2025</h1>
                         </div> 
                         <div class="ml-1">
-                            <h1 class="m-1 bg-green-300 px-1">Complete</h1>
-                            <h1 class="m-1 bg-green-300 px-1">Complete</h1>
-                            <h1 class="m-1 bg-red-300 px-1">Delayed</h1>
-                            <h1 class="m-1 bg-yellow-300 px-1">On going</h1>
-                            <h1 class="m-1 bg-red-300 px-1">At risk</h1>
-                            <h1 class="m-1 bg-yellow-300 px-1">On going</h1>
+                            <h1 class="m-1 bg-green-300 px-1 text-slate-500">Complete</h1>
+                            <h1 class="m-1 bg-green-300 px-1 text-slate-500">Complete</h1>
+                            <h1 class="m-1 bg-red-300 px-1 text-slate-500">Delayed</h1>
+                            <h1 class="m-1 bg-yellow-300 px-1 text-slate-500">On going</h1>
+                            <h1 class="m-1 bg-red-300 px-1 text-slate-500">At risk</h1>
+                            <h1 class="m-1 bg-yellow-300 px-1 text-slate-500">On going</h1>
                         </div>
                     </div>
                 </div>
                 <div class="w-auto border m-1 p-1">
                     <div class="flex m-3">
                         <h1 class="font-semibold w-full">Overall progress</h1>
-                        <div class="flex bg-slate-300 mx-3">
+                        <div class="flex bg-slate-300 mx-3 place-items-center">
                             <h1>All</h1>
                             <span>
                             <svg width="15" height="15" viewBox="0 0 37 35" fill="none" xmlns="http://www.w3.org/2000/svg">
